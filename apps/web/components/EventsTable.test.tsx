@@ -40,6 +40,8 @@ const event: ContractEvent = {
 
 const EVENT: ContractEvent = {
   id: "evt_1",
+  contract_id: "CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+  network: "testnet",
   ledger: 120_400,
   ledger_closed_at: "2026-07-03T08:00:00Z",
   tx_hash: "a1b2c3",
